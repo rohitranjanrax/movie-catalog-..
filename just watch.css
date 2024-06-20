@@ -1,0 +1,204 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-color: black;
+    color:white;
+}
+nav{
+    background-image: url("C:\coding\.vscode\One_Piece_Anime_Logo.webp");
+    height:100px;
+    width:50px;
+    }
+h3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    position:relative;
+    padding-top: 50px;
+    
+    color:yellow;
+}
+ul{
+    display:flex;
+    color:white;
+    padding:2ch;
+    margin-left: 2ch;
+    width:2ch;
+}
+li{
+    padding:30px;
+    
+    height: 40px;
+}
+h4{
+    color:blanchedalmond;
+ 
+ 
+ 
+ margin:2ch;
+ 
+}
+p{
+    color:white;
+    margin: 2ch;
+ height:50px;
+
+}
+container{position:relative;
+        display:flex;
+        padding:1ch;
+        width:150px;
+        height:150px;
+        margin:2ch;
+      justify-content: space-around;
+      color:white;
+color:brown;
+
+}
+.netflix{  
+    width: 100px; /* Width of each box */
+    height: 100px; /* Height of each box */
+    background-color: #4CAF50; /* Background color */
+    color: white; /* Text color */
+    padding: 20px; /* Padding inside the box */
+    margin: 10px; /* Margin outside the box */
+    border: 2px solid #000; /* Border of the box */
+    border-radius: 10px; /* Rounded corners */
+    text-align: center; /* Center the text horizontally */
+    line-height: 100px; /* Vertically center the text */
+    display: inline-block;
+}
+.prime-video{
+    width:100px;
+    background-color: white;
+    color:aqua;
+    height:100px;
+    padding: 20px; /* Padding inside the box */
+    margin: 10px; /* Margin outside the box */
+    border: 2px solid white; /* Border of the box */
+    border-radius: 10px; /* Rounded corners */
+    text-align: center; /* Center the text horizontally */
+    line-height: 100px; /* Vertically center the text */
+    display: inline-block;
+}
+.tv{
+    width:100px;
+    background-color:green;
+    color:red;
+    height:100px;
+    padding: 20px; /* Padding inside the box */
+    margin: 10px; /* Margin outside the box */
+    border: 2px solid #691f1f; /* Border of the box */
+    border-radius: 10px; /* Rounded corners */
+    text-align: center; /* Center the text horizontally */
+    line-height: 100px; /* Vertically center the text */
+    display: inline-block;
+}
+.hotstar{
+    width:100px;
+    background-color:rgb(194, 115, 115);
+    color:rgb(0, 85, 255);
+    height:100px;
+    padding: 20px; /* Padding inside the box */
+    margin: 10px; /* Margin outside the box */
+    border: 2px solid #691f1f; /* Border of the box */
+    border-radius: 10px; /* Rounded corners */
+    text-align: center; /* Center the text horizontally */
+    line-height: 100px; /* Vertically center the text */
+    display: inline-block;
+}
+
+
+.bar{white-space: nowrap;
+    font-size: 20px;
+    font-weight: 900;
+
+}
+container2{
+    position:relative;
+    justify-content: space-around;
+    width: 150px;
+    height:200px;
+    padding:2ch;
+    margin:2ch;
+    display: inline-block;
+}
+.box1{
+    width: 150px;
+    height:200px;
+    display:flex;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    display: inline-block;
+    overflow: hidden; /* Ensure the image doesn't overflow the box */
+    justify-content: center; /* Center the image horizontally */
+    align-items: center;
+}
+.box2{
+    width: 150px;
+    height:200px;
+    display:flex;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    display: inline-block;
+    box-sizing: border-box;
+    overflow: hidden; /* Ensure the image doesn't overflow the box */
+    justify-content: center; /* Center the image horizontally */
+    align-items: center;
+}
+.box3{
+    width: 150px;
+    height:200px;
+    display:flex;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    display: inline-block;
+    box-sizing: border-box;
+    overflow: hidden; /* Ensure the image doesn't overflow the box */
+    justify-content: center; /* Center the image horizontally */
+    align-items: center;
+}
+.box4{
+    width: 150px;
+    height:200px;
+    display:flex;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    display: inline-block;
+    box-sizing: border-box;
+    overflow: hidden; /* Ensure the image doesn't overflow the box */
+    justify-content: center; /* Center the image horizontally */
+    align-items: center;
+}
+.box5
+{
+    width: 150px;
+    height:200px;
+    display:flex;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    display: inline-block;
+    box-sizing: border-box;
+    overflow: hidden; /* Ensure the image doesn't overflow the box */
+    justify-content: center; /* Center the image horizontally */
+    align-items: center;
+}
+.box6{
+    width: 150px;
+    height:200px;
+    display:flex;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    display: inline-block;
+    box-sizing: border-box;
+    overflow: hidden; /* Ensure the image doesn't overflow the box */
+    justify-content: center; /* Center the image horizontally */
+    align-items: center;
+    
+}
+.fname{
+
+    width:20px;
+    
+}
